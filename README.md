@@ -9,10 +9,6 @@ Over the last 30 years, global CO2 trajectory shifts have been concentrated in a
 * **Fastest Rising:** China and India lead global emissions growth by a significant margin. China's annual emissions increased by **8,255 Million Tonnes (Mt) CO2 (+298%)**, while India grew by **2,049 Mt CO2 (+286%)**. Rapidly growing economies like Indonesia, Saudi Arabia, and Iran round out the top five growth trajectories.
 * **Fastest Falling:** The United States and the United Kingdom recorded the largest absolute reductions in annual emissions. The US reduced annual output by **824 Mt CO2 (-15.2%)**, while the UK achieved a **301 Mt CO2 (-52.7%)** decrease, driven largely by coal phase-outs and increased renewable integration.
 
-![30-Year CO2 Emission Shifts](co2_emissions_trend.png)
-
----
-
 ## Data Source & Methodology
 * **Source:** Our World in Data (OWID) Global Carbon Budget Dataset.
 * **Timeframe:** 1993 to 2023 (30-year delta).
